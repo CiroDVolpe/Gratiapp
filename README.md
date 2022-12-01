@@ -41,7 +41,7 @@ O sistema operacional utilizado foi o Windows 11. A IDE de desenvolvimento utili
 
 ## Time
 
-Clique no nosso nome e conheça nosso Linkedin.
+**Clique no nosso nome e conheça nosso Linkedin.**
 
 <a href="https://www.linkedin.com/in/cirodellavolpe/">Ciro Della Volpe</a>
 
