@@ -9,6 +9,8 @@ O aplicativo ideal para quem quer registrar as gratidões mais marcantes de sua 
 
 ## Motivo
 
+Ser um espaço para autoescrita através do aplicativo GratiApp.
+
 ## Requisitos
 
 Utilização de smarthone com sistema operacional Android para executar o aplicativo.
