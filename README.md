@@ -40,6 +40,9 @@ O sistema operacional utilizado foi o Windows 11. A IDE de desenvolvimento utili
 *Nenhum framework foi utilizado*
 
 ## Time
+
+Clique no nosso nome e conheça nosso Linkedin.
+
 Ciro Della Volpe
 
 Eduardo Maceto
@@ -48,4 +51,4 @@ Germano Barros Nascimento
 
 Leticia Barbosa da Silva
 
-Tassiana Benamor
+<a href="https://www.linkedin.com/in/tassiana-benamor/">Tassiana Benamor</a>
