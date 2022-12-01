@@ -43,12 +43,12 @@ O sistema operacional utilizado foi o Windows 11. A IDE de desenvolvimento utili
 
 Clique no nosso nome e conheça nosso Linkedin.
 
-Ciro Della Volpe
+<a href="https://www.linkedin.com/in/cirodellavolpe/">Ciro Della Volpe</a>
 
-Eduardo Maceto
+<a href="https://www.linkedin.com/in/eduardo-mello-de-macedo-28ab8b198/">Eduardo Maceto</a>
 
-Germano Barros Nascimento
+<a href="https://www.linkedin.com/in/germanonascimento/">Germano Barros Nascimento</a>
 
-Leticia Barbosa da Silva
+<a href="https://www.linkedin.com/in/let%C3%ADcia-barbosaa/">Leticia Barbosa da Silva</a>
 
 <a href="https://www.linkedin.com/in/tassiana-benamor/">Tassiana Benamor</a>
