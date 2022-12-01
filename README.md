@@ -11,6 +11,8 @@ O aplicativo ideal para quem quer registrar as gratidões mais marcantes de sua 
 
 ## Requisitos
 
+Utilização de smarthone com sistema operacional Android para executar o aplicativo.
+
 ## Funcionalidades
 
 ## Tecnologias
