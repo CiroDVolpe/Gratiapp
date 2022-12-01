@@ -15,7 +15,7 @@ Utilização de smarthone com sistema operacional Android para executar o aplica
 
 ## Funcionalidades
 
-<h3>Abaico temos as funcionalidades que compôem o aplicativo:</h3>
+<h3>Abaixo temos as funcionalidades que compôem o aplicativo:</h3>
 
 - Adicionar, editar e excluir texto.
 - Cadastro e autenticação de usuário.
