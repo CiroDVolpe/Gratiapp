@@ -15,6 +15,18 @@ Utilização de smarthone com sistema operacional Android para executar o aplica
 
 ## Funcionalidades
 
+<h3>Abaico temos as funcionalidade que compôem o aplicativo:</h3>
+
+- Adicionar, editar e excluir texto.
+- Cadastro e autenticação de usuário.
+- Visualização e consulta de textos adicionados previamente pelo usuário.
+- Adição de humor.
+- Funcionalidade de consultar o humor.
+- Tela de relatório de humor.
+- Adição de fotos.
+- Adição de localização.
+- Modo claro e noturno.
+
 ## Tecnologias
 
 O sistema operacional utilizado foi o Windows 11. A IDE de desenvolvimento utilizada foi o Android Studio.
