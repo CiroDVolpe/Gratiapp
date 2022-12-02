@@ -41,6 +41,14 @@ O sistema operacional utilizado foi o Windows 11. A IDE de desenvolvimento utili
 
 *Nenhum framework foi utilizado*
 
+## Design 
+
+Para conhecer os processos de design, acesse nossa página no Notion:
+
+<a href="https://tassi.notion.site/Design-do-aplicativo-GratiApp-81130436f0c145d18063235e26264aeds" target="_blank">
+  <img src="https://img.shields.io/badge/Notion-282828?style=for-the-badge&logo=notion&logoColor=white">
+</a>
+
 ## Time
 
 **Clique no nosso nome e conheça nosso Linkedin.**
