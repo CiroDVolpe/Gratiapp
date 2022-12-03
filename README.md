@@ -67,7 +67,7 @@ Para conhecer os processos de design, acesse nossa página no Notion sobre o ass
 
 ## Autores
 
-**Clique no nosso nome e conheça nosso Linkedin.**
+**Clique no nome e conheça nosso Linkedin.**
 
 <a href="https://www.linkedin.com/in/cirodellavolpe/">Ciro Volpe</a> | 
 <a href="https://www.linkedin.com/in/eduardo-mello-de-macedo-28ab8b198/">Eduardo Macedo</a> | 
