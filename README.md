@@ -41,12 +41,23 @@ O sistema operacional utilizado foi o Windows 11. A IDE de desenvolvimento utili
 
 *Nenhum framework foi utilizado*
 
-## Design 
+## Outros recursos 
 
-Para conhecer os processos de design, acesse nossa página no Notion clicando no botão abaixo.
+<h3>Backlog de tarefas</h3>
+
+Para conhecer como separamos o desenvolvimento do GratiApp em etapas, acesse nossa página no Notion sobre o assunto clicando no botão abaixo.
+
+<a href="https://tassi.notion.site/Backlog-de-Tarefas-94ba072ba0e44e4cbe8417aeab31355e" target="_blank">
+  <img src="https://img.shields.io/badge/Backlog-282828?style=for-the-badge&logo=notion&logoColor=white">
+</a>
+
+
+<h3>Design</h3>
+
+Para conhecer os processos de design, acesse nossa página no Notion sobre o assunto clicando no botão abaixo.
 
 <a href="https://tassi.notion.site/Design-do-aplicativo-GratiApp-81130436f0c145d18063235e26264aeds" target="_blank">
-  <img src="https://img.shields.io/badge/Notion-282828?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Design-282828?style=for-the-badge&logo=notion&logoColor=white">
 </a>
 
 ## Time
