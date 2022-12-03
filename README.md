@@ -69,12 +69,8 @@ Para conhecer os processos de design, acesse nossa página no Notion sobre o ass
 
 **Clique no nosso nome e conheça nosso Linkedin.**
 
-<a href="https://www.linkedin.com/in/cirodellavolpe/">Ciro Della Volpe</a>
-
-<a href="https://www.linkedin.com/in/eduardo-mello-de-macedo-28ab8b198/">Eduardo Macedo</a>
-
-<a href="https://www.linkedin.com/in/germanonascimento/">Germano Barros Nascimento</a>
-
-<a href="https://www.linkedin.com/in/let%C3%ADcia-barbosaa/">Leticia Barbosa da Silva</a>
-
+<a href="https://www.linkedin.com/in/cirodellavolpe/">Ciro Volpe</a> | 
+<a href="https://www.linkedin.com/in/eduardo-mello-de-macedo-28ab8b198/">Eduardo Macedo</a> | 
+<a href="https://www.linkedin.com/in/germanonascimento/">Germano Nascimento</a> | 
+<a href="https://www.linkedin.com/in/let%C3%ADcia-barbosaa/">Leticia Barbosa</a> | 
 <a href="https://www.linkedin.com/in/tassiana-benamor/">Tassiana Benamor</a>
