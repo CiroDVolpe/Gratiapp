@@ -10,7 +10,7 @@ Trabalho em grupo para a disciplina Projeto de Bloco: Desenvolvimento Android, I
 
 A ideia do projeto é:
 
-O aplicativo ideal para quem quer registrar as gratidões mais marcantes de sua vida.
+O aplicativo de anotações ideal para quem quer registrar todos os dias as gratidões mais marcantes de sua vida.
 
 ## Motivo
 
