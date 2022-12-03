@@ -1,3 +1,8 @@
+<p align="center">
+<img width=200 src="https://user-images.githubusercontent.com/87051404/205413124-941072f4-d17f-40a8-8f70-f4230e7e5d32.png" /></br>
+Aplicativo de gratidão diária.
+</p>
+
 # Gratiapp
 Trabalho em grupo para a disciplina Projeto de Bloco: Desenvolvimento Android, Instituto Infnet (4T.2022).
 
