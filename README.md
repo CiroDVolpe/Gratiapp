@@ -56,7 +56,7 @@ Para conhecer como separamos o desenvolvimento do GratiApp em etapas, acesse nos
 
 Para conhecer os processos de design, acesse nossa página no Notion sobre o assunto clicando no botão abaixo.
 
-<a href="https://tassi.notion.site/Design-do-aplicativo-GratiApp-81130436f0c145d18063235e26264aeds" target="_blank">
+<a href="https://tassi.notion.site/Design-do-aplicativo-GratiApp-81130436f0c145d18063235e26264aed" target="_blank">
   <img src="https://img.shields.io/badge/Design-282828?style=for-the-badge&logo=notion&logoColor=white">
 </a>
 
