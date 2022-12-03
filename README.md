@@ -1,5 +1,5 @@
 <p align="center">
-<img width=200 src="https://user-images.githubusercontent.com/87051404/205413124-941072f4-d17f-40a8-8f70-f4230e7e5d32.png" /></br>
+<img width=250 src="https://user-images.githubusercontent.com/87051404/205413450-eee6b802-ac8b-4e44-bb22-0ef5c1463900.png" /></br>
 Aplicativo de gratidão diária.
 </p>
 
@@ -65,7 +65,7 @@ Para conhecer os processos de design, acesse nossa página no Notion sobre o ass
   <img src="https://img.shields.io/badge/Design-282828?style=for-the-badge&logo=notion&logoColor=white">
 </a>
 
-## Time
+## Autores
 
 **Clique no nosso nome e conheça nosso Linkedin.**
 
