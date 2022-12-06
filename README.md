@@ -63,7 +63,8 @@ Para conhecer como separamos o desenvolvimento do GratiApp em etapas, acesse nos
 <h3>Metodologia ágil</h3>
 
 A metodologia ágil utilizada foi o Scrum. 
-[...]
+Product Owner e Desenvolvedor: Ciro Volpe
+Designer e Desenvolvedora: Tassiana Benamor.
 
 <h3>Design</h3>
 
