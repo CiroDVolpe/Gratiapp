@@ -41,8 +41,7 @@ A metodologia ágil utilizada foi o Scrum.
 
 ## Modelo de negócios
 
-O modelo de negócios escolhido foi o Freemium.
-[...]
+O modelo de negócios escolhido foi o Freemium. Para a implementação deste modelo de negócios será implementada a API de In-App Billing utilizando a Google Play Library.
 
 ## Tecnologias
 
