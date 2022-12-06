@@ -34,6 +34,11 @@ Utilização de smarthone com sistema operacional Android para executar o aplica
 - Adição de localização.
 - Modo claro e noturno.
 
+## Metodologia ágil
+
+A metodologia ágil utilizada foi o Scrum. 
+[...]
+
 ## Tecnologias
 
 O sistema operacional utilizado foi o Windows 11. A IDE de desenvolvimento utilizada foi o Android Studio.
