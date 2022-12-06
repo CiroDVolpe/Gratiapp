@@ -39,6 +39,10 @@ Utilização de smarthone com sistema operacional Android para executar o aplica
 A metodologia ágil utilizada foi o Scrum. 
 [...]
 
+## Modelo de negócios
+
+[...]
+
 ## Tecnologias
 
 O sistema operacional utilizado foi o Windows 11. A IDE de desenvolvimento utilizada foi o Android Studio.
