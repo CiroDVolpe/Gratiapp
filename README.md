@@ -18,7 +18,7 @@ Ser um espaço para autoescrita através do aplicativo GratiApp.
 
 ## Requisitos
 
-Utilização de smarthone com sistema operacional Android para executar o aplicativo.
+Utilização de smartphone com sistema operacional Android para executar o aplicativo.
 
 ## Funcionalidades
 
