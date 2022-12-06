@@ -41,6 +41,7 @@ A metodologia ágil utilizada foi o Scrum.
 
 ## Modelo de negócios
 
+O modelo de negócios escolhido foi o Freemium.
 [...]
 
 ## Tecnologias
