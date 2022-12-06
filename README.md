@@ -52,7 +52,7 @@ O sistema operacional utilizado foi o Windows 11. A IDE de desenvolvimento utili
 
 ## Outros recursos 
 
-<h3>Backlog de tarefas</h3>
+<h3>Product Backlog</h3>
 
 Para conhecer como separamos o desenvolvimento do GratiApp em etapas, acesse nossa página no Notion sobre o assunto clicando no botão abaixo.
 
@@ -62,9 +62,10 @@ Para conhecer como separamos o desenvolvimento do GratiApp em etapas, acesse nos
 
 <h3>Metodologia ágil</h3>
 
-A metodologia ágil utilizada foi o Scrum. 
-Product Owner e Desenvolvedor: Ciro Volpe
-Designer e Desenvolvedora: Tassiana Benamor.
+A metodologia ágil utilizada foi o Scrum. Abaixo segue a equipe de desenvolvimento juntamente com suas respectivas atibuições:
+
+- Product Owner e Desenvolvedor: Ciro Volpe
+- Designer e Desenvolvedora: Tassiana Benamor.
 
 <h3>Design</h3>
 
