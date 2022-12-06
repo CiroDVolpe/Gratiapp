@@ -34,11 +34,6 @@ Utilização de smartphone com sistema operacional Android para executar o aplic
 - Adição de localização.
 - Modo claro e noturno.
 
-## Metodologia ágil
-
-A metodologia ágil utilizada foi o Scrum. 
-[...]
-
 ## Modelo de negócios
 
 O modelo de negócios escolhido foi o Freemium. Para a implementação deste modelo de negócios será implementada a API de In-App Billing utilizando a Google Play Library.
@@ -65,6 +60,10 @@ Para conhecer como separamos o desenvolvimento do GratiApp em etapas, acesse nos
   <img src="https://img.shields.io/badge/Backlog-341A1A?style=for-the-badge&logo=notion&logoColor=white">
 </a>
 
+<h3>Metodologia ágil</h3>
+
+A metodologia ágil utilizada foi o Scrum. 
+[...]
 
 <h3>Design</h3>
 
