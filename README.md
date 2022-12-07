@@ -65,8 +65,11 @@ Para conhecer como separamos o desenvolvimento do GratiApp em etapas, acesse nos
 
 A metodologia ágil utilizada foi o Scrum. Abaixo segue a equipe de desenvolvimento juntamente com suas respectivas atibuições:
 
-- Product Owner e Desenvolvedor: Ciro Volpe
-- Designer e Desenvolvedora: Tassiana Benamor.
+- Ciro Volpe: Product Owner e Desenvolvedor;
+- Tassiana Benamor: Designer e Desenvolvedora;
+- Eduardo Macedo: Desenvolvedor;
+- Germano Nascimento: Desenvolvedor;
+- Leticia Barbosa: Desenvolvedora.
 
 <h3>Design</h3>
 
