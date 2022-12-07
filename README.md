@@ -6,7 +6,7 @@ Aplicativo de gratidão diária.
 # Gratiapp
 Trabalho em grupo para a disciplina Projeto de Bloco: Desenvolvimento Android, Instituto Infnet (4T.2022). 
 
-## Sobre o projeto
+## Sobre o projeto 
 
 A ideia do projeto é: 
 
