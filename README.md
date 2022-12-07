@@ -1,6 +1,6 @@
 <p align="center">
 <img width=250 src="https://user-images.githubusercontent.com/87051404/205413450-eee6b802-ac8b-4e44-bb22-0ef5c1463900.png" /></br>
-Aplicativo de gratidão diária.
+Aplicativo de gratidão diária. 
 </p>
 
 # Gratiapp
