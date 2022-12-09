@@ -3,8 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="br.edu.infnet.gratiapp.MainActivity">
     <item
-        android:id="@+id/action_settings"
-        android:orderInCategory="100"
-        android:title="@string/action_settings"
-        app:showAsAction="never" />
+        android:id="@+id/logout"
+        android:title="logout"
+        android:icon="@drawable/ic_baseline_exit_to_app_24"
+        app:showAsAction="always" />
 </menu>

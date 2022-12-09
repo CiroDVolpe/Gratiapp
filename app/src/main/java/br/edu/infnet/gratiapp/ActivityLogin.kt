@@ -3,6 +3,8 @@ package br.edu.infnet.gratiapp
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.Menu
+import android.view.MenuItem
 import android.widget.Toast
 import br.edu.infnet.gratiapp.databinding.ActivityAdicionarFraseBinding
 import br.edu.infnet.gratiapp.databinding.ActivityLoginBinding
@@ -23,7 +25,28 @@ class ActivityLogin : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(binding.root)
 
+        val toolbar = supportActionBar!!
+        toolbar.title = "GratiApp"
 
+
+    }
+
+    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
+        menuInflater.inflate(R.menu.menu_main,menu)
+        return true
+    }
+
+    override fun onOptionsItemSelected(item: MenuItem): Boolean {
+       when (item.itemId) {
+           R.id.logout -> firebaselogout()
+       }
+        return true
+    }
+
+    private fun firebaselogout() {
+        FirebaseAuth.getInstance().signOut()
+        startActivity(Intent(this,ActivityLogin::class.java))
+        this.finishAffinity()
     }
 
     private fun logarUsuario(email: String, senha: String) {
