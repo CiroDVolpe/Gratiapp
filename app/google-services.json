@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "21657219706",
+    "project_id": "gratiapp-infnet",
+    "storage_bucket": "gratiapp-infnet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21657219706:android:f6621cab82b1ebacac81c3",
+        "android_client_info": {
+          "package_name": "br.edu.infnet.gratiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21657219706-4gduqea19jkrn8sdl1mvjn6ahuctkk48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb3POSZuMKXNvGoc5en5MGKS0QKv4qa3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21657219706-4gduqea19jkrn8sdl1mvjn6ahuctkk48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
