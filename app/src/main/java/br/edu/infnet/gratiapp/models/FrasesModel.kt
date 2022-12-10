@@ -10,6 +10,6 @@ data class FrasesModel(
     @PrimaryKey(autoGenerate = true) val id:Long = 0,
     @ColumnInfo(name = "Phrase") var phrase: String,
     @ColumnInfo(name = "Create_at") var create_at: DateTime,
-    @ColumnInfo(name = "User_id") var user_id: String,
+    @ColumnInfo(name = "User_id") var user_id: String = "",
 
 )
