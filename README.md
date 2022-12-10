@@ -6,6 +6,11 @@ Aplicativo de gratidão diária.
 # Gratiapp
 Trabalho em grupo para a disciplina Projeto de Bloco: Desenvolvimento Android, Instituto Infnet (4T.2022). 
 
+<a href="https://play.google.com/store/apps/developer?id=Aluno+Infnet&hl=pt_PT&gl=US" target="_blank">
+  <img width=140 src="https://user-images.githubusercontent.com/87051404/206851435-c2602af0-4d79-48f8-b4e0-0069941a7475.png">
+</a>
+
+
 ## Sobre o projeto 
 
 A ideia do projeto é: 
