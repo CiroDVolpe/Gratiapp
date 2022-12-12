@@ -62,7 +62,15 @@ O modelo de negócios escolhido foi o Freemium. Para a implementação deste mod
 
 A identidade visual foi desenvolvido exclusivamente para o GratiApp.
 
-![image](https://user-images.githubusercontent.com/87051404/207163740-c1a6a3fc-2e1a-4beb-8f74-b74db799bc96.png)
+<h3>Design e cores</h3>
+
+![image](https://user-images.githubusercontent.com/87051404/207165382-10756e57-c250-4a81-9e7a-a1941bf70f89.png)
+
+Código HEX da logo: #F9FFF9 | #ECD189 | #F2B476 | #E99469 | #DB6B5C | #BC5952 | #8C4646 | #341A1A
+
+<h3>Outros insights</h3>
+
+![image](https://user-images.githubusercontent.com/87051404/207164025-199d3f8d-40d8-4f1c-ac6a-b208ebe1f3a1.png)
 
 
 *Para saber mais sobre os processos de design, acesse a nossa página no [Notion](https://tassi.notion.site/Design-do-aplicativo-GratiApp-81130436f0c145d18063235e26264aed).*
