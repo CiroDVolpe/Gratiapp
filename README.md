@@ -1,9 +1,8 @@
 <p align="center">
 <img width=250 src="https://user-images.githubusercontent.com/87051404/205413450-eee6b802-ac8b-4e44-bb22-0ef5c1463900.png" /></br>
-Aplicativo de gratidão diária. 
 </p>
 
-# :crescent_moon: Gratiapp
+# :crescent_moon: Gratiapp - Aplicativo de gratidão diária
 
 O aplicativo de anotações ideal para quem quer registrar todos os dias as gratidões mais marcantes de sua vida.
 
@@ -25,24 +24,22 @@ Login, cadastro e autenticação de usuário por meio do Firebase.
 
 <h3>As técnicas utilizadas pra isso são:</h3>
 
-[em breve]
+- `RecyclerView`: listagem das produtos
+- `ConstraintLayout`: ViewGroup padrão para implementar todos os layouts
+- `ImageView`: View para apresentar imagens no App
+- `View Binding`: busca de views do layout de forma segura
+- `Personalização de tema`: modificação de cores para o tema do App
 
 <h3>Tecnologias utilizadas</h3>
 
-O sistema operacional utilizado foi o Windows 11. A IDE de desenvolvimento utilizada foi o Android Studio. 
-
-Para issto, as linguagens utilizadas foram:
+A IDE de desenvolvimento utilizada foi o Android Studio e as linguagens utilizadas foram:
 
 - `Kotlin`: Linguagem de programação
 - `XML`: Linguagem de marcação
 
 *Nenhum framework foi utilizado*
 
-## :dart: Metodologia ágil
-
-<h3>Scrum</h3>
-
-A metodologia ágil utilizada foi o Scrum. 
+## :dart: Metodologia ágil - Scrum
 
 Segue abaixo o time de desenvolvimento juntamente com suas respectivas atibuições:
 
@@ -52,9 +49,10 @@ Segue abaixo o time de desenvolvimento juntamente com suas respectivas atibuiç�
 - [Germano Nascimento](https://www.linkedin.com/in/germanonascimento/): Desenvolvedor;
 - [Leticia Barbosa](https://www.linkedin.com/in/let%C3%ADcia-barbosaa/): Desenvolvedora.
 
+<!--
 <h3>Product Backlog</h3>
 
-Para conhecer como separamos o desenvolvimento do GratiApp em etapas, acesse nossa página no [Notion](https://tassi.notion.site/Backlog-de-Tarefas-94ba072ba0e44e4cbe8417aeab31355e) sobre o assunto.
+Para conhecer como separamos o desenvolvimento do GratiApp em etapas, acesse nossa página no [Notion](https://tassi.notion.site/Backlog-de-Tarefas-94ba072ba0e44e4cbe8417aeab31355e) sobre o assunto. -->
 
 ## :money_with_wings: Modelo de negócios
 
@@ -62,9 +60,12 @@ O modelo de negócios escolhido foi o Freemium. Para a implementação deste mod
 
 ## :writing_hand: Design
 
-Para conhecer os processos de design, acesse nossa página no [Notion](https://tassi.notion.site/Design-do-aplicativo-GratiApp-81130436f0c145d18063235e26264aed) sobre o assunto clicando no botão abaixo.
+A identidade visual foi desenvolvido exclusivamente para o GratiApp.
+
+![image](https://user-images.githubusercontent.com/87051404/207163740-c1a6a3fc-2e1a-4beb-8f74-b74db799bc96.png)
 
 
+*Para saber mais sobre os processos de design, acesse a nossa página no [Notion](https://tassi.notion.site/Design-do-aplicativo-GratiApp-81130436f0c145d18063235e26264aed).*
 
 ## :computer: Telas
 
