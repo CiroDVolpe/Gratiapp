@@ -18,7 +18,9 @@ Para baixar o aplicativo no seu dispositivo Android, acesse a [Play Store](https
 
 <h3>Funcionalidades</h3>
 
-Login, cadastro e autenticação de usuário por meio do Firebase.
+Assista aqui o [vídeo]() demonstrando as funcionalidades do aplicativo.
+
+- Login, cadastro e autenticação de usuário por meio do Firebase.
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
