@@ -3,93 +3,74 @@
 Aplicativo de gratidão diária. 
 </p>
 
-# Gratiapp
-Trabalho em grupo para a disciplina Projeto de Bloco: Desenvolvimento Android, Instituto Infnet (4T.2022). 
+# :crescent_moon: Gratiapp
 
-<a href="https://play.google.com/store/apps/developer?id=Aluno+Infnet&hl=pt_PT&gl=US" target="_blank">
-  <img width=140 src="https://user-images.githubusercontent.com/87051404/206851435-c2602af0-4d79-48f8-b4e0-0069941a7475.png">
-</a>
+O aplicativo de anotações ideal para quem quer registrar todos os dias as gratidões mais marcantes de sua vida.
 
+**Motivo:** Ser um espaço para autoescrita através do aplicativo GratiApp.
 
-## Sobre o projeto 
+## :hammer: Requisitos e funcionalidades
 
-A ideia do projeto é: 
+<h3>Requisitos</h3>
 
-O aplicativo de anotações ideal para quem quer registrar todos os dias as gratidões mais marcantes de sua vida. Ser grato!
+Utilização de smartphone com sistema operacional Android para executar o aplicativo. 
 
-## Motivo
+Para baixar o aplicativo no seu dispositivo Android, acesse a [Play Store](https://play.google.com/store/apps/developer?id=Aluno+Infnet&hl=pt_PT&gl=US).
 
-Ser um espaço para autoescrita através do aplicativo GratiApp.
+<h3>Funcionalidades</h3>
 
-## Requisitos
+Login, cadastro e autenticação de usuário por meio do Firebase.
 
-Utilização de smartphone com sistema operacional Android para executar o aplicativo.
+## ✔️ Técnicas e tecnologias utilizadas
 
-## Funcionalidades
+<h3>As técnicas utilizadas pra isso são:</h3>
 
-<h3>Abaixo temos as funcionalidades que compôem o aplicativo:</h3>
+[em breve]
 
-- Adicionar, editar e excluir texto.
-- Cadastro e autenticação de usuário.
-- Visualização e consulta de textos adicionados previamente pelo usuário.
-- Adição de humor.
-- Funcionalidade de consultar o humor.
-- Tela de relatório de humor.
-- Adição de fotos.
-- Adição de localização.
-- Modo claro e noturno.
+<h3>Tecnologias utilizadas</h3>
 
-## Modelo de negócios
+O sistema operacional utilizado foi o Windows 11. A IDE de desenvolvimento utilizada foi o Android Studio. 
 
-O modelo de negócios escolhido foi o Freemium. Para a implementação deste modelo de negócios será implementada a API de In-App Billing utilizando a Google Play Library.
-A escolha desse modelo foi feita a partir da principal premissa de deixar o app acessível para todos os públicos, dando uma experiência integral de nosso fluxo. Isso combina com a temática mindfull que permeia. Os ads serão implementados por meio de banners ao longo da rotina do usuário. O modelo de cobrança para o aplicativo será por recorrência mensal e anual, para retirar banners e anúncios.
+Para issto, as linguagens utilizadas foram:
 
-## Tecnologias
-
-O sistema operacional utilizado foi o Windows 11. A IDE de desenvolvimento utilizada foi o Android Studio.
-
-<h3>As linguagens utilizadas foram:</h3>
-
-- Kotlin
-
-- XML
+- `Kotlin`: Linguagem de programação
+- `XML`: Linguagem de marcação
 
 *Nenhum framework foi utilizado*
 
-## Outros recursos 
+## :dart: Metodologia ágil
+
+<h3>Scrum</h3>
+
+A metodologia ágil utilizada foi o Scrum. 
+
+Segue abaixo o time de desenvolvimento juntamente com suas respectivas atibuições:
+
+- [Ciro Volpe](https://www.linkedin.com/in/cirodellavolpe/): Product Owner e Desenvolvedor;
+- [Tassiana Benamor](https://www.linkedin.com/in/tassiana-benamor/): Designer e Desenvolvedora;
+- [Eduardo Macedo](https://www.linkedin.com/in/eduardo-mello-de-macedo-28ab8b198/): Desenvolvedor;
+- [Germano Nascimento](https://www.linkedin.com/in/germanonascimento/): Desenvolvedor;
+- [Leticia Barbosa](https://www.linkedin.com/in/let%C3%ADcia-barbosaa/): Desenvolvedora.
 
 <h3>Product Backlog</h3>
 
-Para conhecer como separamos o desenvolvimento do GratiApp em etapas, acesse nossa página no Notion sobre o assunto clicando no botão abaixo.
+Para conhecer como separamos o desenvolvimento do GratiApp em etapas, acesse nossa página no [Notion](https://tassi.notion.site/Backlog-de-Tarefas-94ba072ba0e44e4cbe8417aeab31355e) sobre o assunto.
 
-<a href="https://tassi.notion.site/Backlog-de-Tarefas-94ba072ba0e44e4cbe8417aeab31355e" target="_blank">
-  <img src="https://img.shields.io/badge/Backlog-341A1A?style=for-the-badge&logo=notion&logoColor=white">
-</a>
+## :money_with_wings: Modelo de negócios
 
-<h3>Metodologia ágil</h3>
+O modelo de negócios escolhido foi o Freemium. Para a implementação deste modelo de negócios será implementada a API de In-App Billing utilizando a Google Play Library. A escolha desse modelo foi feita a partir da principal premissa de deixar o app acessível para todos os públicos, dando uma experiência integral de nosso fluxo. Isso combina com a temática mindfull que permeia. Os ads serão implementados por meio de banners ao longo da rotina do usuário. O modelo de cobrança para o aplicativo será por recorrência mensal e anual, para retirar banners e anúncios.
 
-A metodologia ágil utilizada foi o Scrum. Abaixo segue a equipe de desenvolvimento juntamente com suas respectivas atibuições:
+## :writing_hand: Design
 
-- Ciro Volpe: Product Owner e Desenvolvedor;
-- Tassiana Benamor: Designer e Desenvolvedora;
-- Eduardo Macedo: Desenvolvedor;
-- Germano Nascimento: Desenvolvedor;
-- Leticia Barbosa: Desenvolvedora.
+Para conhecer os processos de design, acesse nossa página no [Notion](https://tassi.notion.site/Design-do-aplicativo-GratiApp-81130436f0c145d18063235e26264aed) sobre o assunto clicando no botão abaixo.
 
-<h3>Design</h3>
 
-Para conhecer os processos de design, acesse nossa página no Notion sobre o assunto clicando no botão abaixo.
 
-<a href="https://tassi.notion.site/Design-do-aplicativo-GratiApp-81130436f0c145d18063235e26264aed" target="_blank">
-  <img src="https://img.shields.io/badge/Design-341A1A?style=for-the-badge&logo=notion&logoColor=white">
-</a>
+## :computer: Telas
 
-## Autores
+[em breve]
 
-**Clique no nome e conheça nosso Linkedin.**
 
-<a href="https://www.linkedin.com/in/cirodellavolpe/">Ciro Volpe</a> | 
-<a href="https://www.linkedin.com/in/eduardo-mello-de-macedo-28ab8b198/">Eduardo Macedo</a> | 
-<a href="https://www.linkedin.com/in/germanonascimento/">Germano Nascimento</a> | 
-<a href="https://www.linkedin.com/in/let%C3%ADcia-barbosaa/">Leticia Barbosa</a> | 
-<a href="https://www.linkedin.com/in/tassiana-benamor/">Tassiana Benamor</a>
+<hr>
+
+*Trabalho em grupo para a disciplina Projeto de Bloco: Desenvolvimento Android, Instituto Infnet (4T.2022).*
