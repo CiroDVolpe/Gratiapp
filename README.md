@@ -41,7 +41,9 @@ A IDE de desenvolvimento utilizada foi o Android Studio e as linguagens utilizad
 
 ## :dart: Metodologia ágil - Scrum
 
-Segue abaixo o time de desenvolvimento juntamente com suas respectivas atibuições:
+A metodologia ágil utilizada foi a Scrum. Em alguns momentos também realizamos pair programming.
+
+Segue abaixo o time de desenvolvimento com suas respectivas atibuições:
 
 - [Ciro Volpe](https://www.linkedin.com/in/cirodellavolpe/): Product Owner e Desenvolvedor;
 - [Tassiana Benamor](https://www.linkedin.com/in/tassiana-benamor/): Designer e Desenvolvedora;
